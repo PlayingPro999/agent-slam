@@ -5,7 +5,7 @@
 # =========================================================
 
 # ── Groq FREE API ─────────────────────────────────────────
-GROQ_API_KEY = "gsk_REPLACE_WITH_YOUR_GROQ_API_KEY"
+GROQ_API_KEY = "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"
 
 # Free Groq models (choose one):
 #   "llama3-70b-8192"      ← RECOMMENDED — best quality, still free
@@ -20,7 +20,7 @@ PASSWORD = "your_password"
 # ── WebSocket URLs ────────────────────────────────────────
 # SANDBOX_WS_URL: given by admin for pre-match testing
 # MATCH_WS_URL  : emailed by admin when your match goes active
-SANDBOX_WS_URL = "wss://SANDBOX_URL_HERE"
+SANDBOX_WS_URL = "https://icjbegh.r.af.d.sendibt2.com/tr/cl/q11kCOf9NXUacN1I-q9WMJJQFMxuErT2ajwc4mTfRYUNxB_354uQSZUgJI1dD7bSNI18_FD8C_scSKVHNJ-wx4FNaPxePp2pmLDzHYphWHBmuoLpZWTAUkOc8iR_SStnsGQMc21JOMW6gknaBp5bLb9BcCb-7ni4aThwKSFdwkgrQjcOQPBVYocxZg-vgDw6RefyzJox0d72ZMFCeicTko3zT4ZLwWhuBJ2K4C_93VH2Jn_GDX8JsrZFaQKIxrZeZOJvJJ_L9A5sTIV65iMCC7y-ezAzFpuPSss3GKlwiTYRkzMJEhMX-AiWJAd3otgLVO_dQGU99-mRX9O4ihjTcsBsRy8eg_OSZ_L_zqb8wX2MmXBEL2VX-UjfxGd-4tF-SHLB0JnozAtU3CRZBRY4NPYPixjpQcFmarsT6HlWI4aro9G8RFGt0seDnacTBvS9pNIc6tkam-qXv6RYlPJF6_x60g1XNMI8VNEW-A7wWLiJDhJa7FGSFJRGqN3xfeBIzzU6W4hmcDq97yKa191-at2buDSwfTZUDRxfgDlZiwL2TmIhSUACcPrc3pmYRZc"
 MATCH_WS_URL   = "wss://MATCH_URL_HERE"
 
 # ── Tuning ────────────────────────────────────────────────
